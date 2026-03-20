@@ -39,7 +39,7 @@ cd ../backend
 npm start
 ```
 
-Then open http://localhost:5000 in your browser.
+Then open https://ai-resume-screening-system-9s86.vercel.app/  in your browser.
 
 ## Project Structure
 
