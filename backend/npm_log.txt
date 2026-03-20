@@ -1,0 +1,28 @@
+npm warn deprecated node-domexception@1.0.0: Use your platform's native DOMException instead
+npm warn cleanup Failed to remove some directories [
+npm warn cleanup   [
+npm warn cleanup     '\\\\?\\C:\\Users\\aush\\Downloads\\Telegram Desktop\\ai-resume-screener\\backend\\node_modules\\streamsearch',
+npm warn cleanup     [Error: EBUSY: resource busy or locked, rmdir 'C:\Users\aush\Downloads\Telegram Desktop\ai-resume-screener\backend\node_modules\streamsearch'] {
+npm warn cleanup       errno: -4082,
+npm warn cleanup       code: 'EBUSY',
+npm warn cleanup       syscall: 'rmdir',
+npm warn cleanup       path: 'C:\\Users\\aush\\Downloads\\Telegram Desktop\\ai-resume-screener\\backend\\node_modules\\streamsearch'
+npm warn cleanup     }
+npm warn cleanup   ],
+npm warn cleanup   [
+npm warn cleanup     '\\\\?\\C:\\Users\\aush\\Downloads\\Telegram Desktop\\ai-resume-screener\\backend\\node_modules\\hasown',
+npm warn cleanup     [Error: EBUSY: resource busy or locked, rmdir 'C:\Users\aush\Downloads\Telegram Desktop\ai-resume-screener\backend\node_modules\hasown'] {
+npm warn cleanup       errno: -4082,
+npm warn cleanup       code: 'EBUSY',
+npm warn cleanup       syscall: 'rmdir',
+npm warn cleanup       path: 'C:\\Users\\aush\\Downloads\\Telegram Desktop\\ai-resume-screener\\backend\\node_modules\\hasown'
+npm warn cleanup     }
+npm warn cleanup   ]
+npm warn cleanup ]
+npm error code 1
+npm error path C:\Users\aush\Downloads\Telegram Desktop\ai-resume-screener\backend\node_modules\protobufjs
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c node scripts/postinstall
+npm error 'node' is not recognized as an internal or external command,
+npm error operable program or batch file.
+npm error A complete log of this run can be found in: C:\Users\aush\AppData\Local\npm-cache\_logs\2026-03-19T14_27_08_266Z-debug-0.log
